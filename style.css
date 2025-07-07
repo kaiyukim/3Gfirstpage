@@ -1,0 +1,15 @@
+body{
+  display: flex;
+  
+  min-height: 100vh;
+  background: linear-gradient(45deg, white, blue, red);
+  justify-content: center;
+  align-items: center;
+  
+}
+span{
+  background-color: white;
+  padding: 20px;
+  border-radius:10px;
+  box-shadow:0 0 6px black;
+}
